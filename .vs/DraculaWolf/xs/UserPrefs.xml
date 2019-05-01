@@ -1,16 +1,21 @@
 ﻿<Properties StartupConfiguration="{905B6B3B-33B1-49FB-B691-AE30F88CB4F5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DraculaWolf Status">
     <Files>
-      <File FileName="DraculaWolf/Game1.cs" Line="14" Column="33" />
+      <File FileName="DraculaWolf/Game1.cs" Line="50" Column="9" />
+      <File FileName="DraculaWolf/Screen Management/ScreenManager.cs" Line="70" Column="9" />
+      <File FileName="DraculaWolf/Screen Management/GameScreen.cs" Line="25" Column="30" />
+      <File FileName="DraculaWolf/Screen Management/SplashScreen.cs" Line="47" Column="53" />
+      <File FileName="DraculaWolf/Screen Management/TitleScreen.cs" Line="46" Column="54" />
       <File FileName="DraculaWolf Status" />
-      <File FileName="DraculaWolf/ScreenManager.cs" Line="16" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DraculaWolf" expanded="True">
-            <Node name="DraculaWolf.Desktop" expanded="True">
-              <Node name="ScreenManager.cs" selected="True" />
+            <Node name="DraculaWolf" expanded="True">
+              <Node name="Properties" selected="True" />
+              <Node name="Screen Management" expanded="True" />
+              <Node name="Utilities" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -19,9 +24,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DraculaWolf.Desktop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DraculaWolf PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
