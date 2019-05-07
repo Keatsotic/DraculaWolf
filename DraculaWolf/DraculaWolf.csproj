@@ -50,6 +50,8 @@
     <Compile Include="Screen Management\SplashScreen.cs" />
     <Compile Include="Utilities\XmlManager.cs" />
     <Compile Include="Screen Management\TitleScreen.cs" />
+    <Compile Include="Utilities\Animation.cs" />
+    <Compile Include="Utilities\FadeAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">
