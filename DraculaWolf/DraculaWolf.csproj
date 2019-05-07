@@ -127,21 +127,24 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="packages.config" />
-    <None Include="Content\Sprites\Player\player_dwt.xnb" />
-    <None Include="Content\Sprites\Enemies\enemy.xnb" />
-    <None Include="Content\Sprites\Misc\wall_dw.xnb" />
     <None Include="Content\Fonts\AnimationFont.spritefont" />
     <None Include="Content\Fonts\AnimationFont.xnb" />
     <None Include="Content\Fonts\font1.spritefont" />
     <None Include="Content\Fonts\font1.xnb" />
+    <None Include="Content\Sprites\Enemies\enemy.png" />
+    <None Include="Content\Sprites\Enemies\enemy.xnb" />
+    <None Include="Content\Sprites\Misc\splash.png" />
+    <None Include="Content\Sprites\Misc\splash.xnb" />
+    <None Include="Content\Sprites\Misc\wall_dw.png" />
+    <None Include="Content\Sprites\Misc\wall_dw.xnb" />
+    <None Include="Content\Sprites\Player\player_dwt.png" />
+    <None Include="Content\Sprites\Player\player_dwt.xnb" />
+    <None Include="Content\Sprites\Player\player_walk_0.png" />
+    <None Include="Content\Sprites\Player\player_walk_1.png" />
+    <None Include="Content\Sprites\Player\player_walk_2.png" />
+    <None Include="Content\Sprites\Player\player_walk_3.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\Sprites\" />
-    <Folder Include="Content\Sprites\Background\" />
-    <Folder Include="Content\Sprites\Enemies\" />
-    <Folder Include="Content\Sprites\Misc\" />
-    <Folder Include="Content\Sprites\Player\" />
-    <Folder Include="Content\Sprites\Tilemaps\" />
     <Folder Include="Screen Management\" />
     <Folder Include="Utilities\" />
     <Folder Include="Load\" />
