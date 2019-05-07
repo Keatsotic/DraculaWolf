@@ -15,15 +15,7 @@
         <State name="__root__">
           <Node name="DraculaWolf" expanded="True">
             <Node name="DraculaWolf" expanded="True">
-              <Node name="Content" expanded="True">
-                <Node name="Sprites" expanded="True">
-                  <Node name="Player" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="Screen Management" expanded="True" />
-              <Node name="Utilities" expanded="True">
-                <Node name="Animation.cs" selected="True" />
-              </Node>
+              <Node name="Content" expanded="True" />
             </Node>
           </Node>
         </State>

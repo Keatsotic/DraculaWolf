@@ -130,6 +130,10 @@
     <None Include="Content\Sprites\Player\player_dwt.xnb" />
     <None Include="Content\Sprites\Enemies\enemy.xnb" />
     <None Include="Content\Sprites\Misc\wall_dw.xnb" />
+    <None Include="Content\Fonts\AnimationFont.spritefont" />
+    <None Include="Content\Fonts\AnimationFont.xnb" />
+    <None Include="Content\Fonts\font1.spritefont" />
+    <None Include="Content\Fonts\font1.xnb" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\Sprites\" />
